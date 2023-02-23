@@ -1,5 +1,5 @@
 # PIRATES
-Pirates is a Unity3D game created to serve as portfolio. It's deployed on [Unity Play].
+Pirates is a Unity game created to serve as portfolio. It's deployed on [Unity Play].
 A brief description of the scripts located in the [Assets/Scripts][as] folder can be found below:
 
 - [PlayerController]: Manages keyboard input and player movement, as well as its destruction.
